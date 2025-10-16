@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UwnpNfbdhWc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BeltranYndira\\source\\repos\\OnlineShopping\\DoraLux.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BeltranYndira\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

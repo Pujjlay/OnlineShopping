@@ -1,0 +1,14 @@
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.AssemblyInfoInputs.cache
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.AssemblyInfo.cs
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.csproj.CoreCompileInputs.cache
+C:\Users\BeltranYndira\source\repos\OnlineShopping\bin\Debug\net8.0\DoraLux.exe
+C:\Users\BeltranYndira\source\repos\OnlineShopping\bin\Debug\net8.0\DoraLux.deps.json
+C:\Users\BeltranYndira\source\repos\OnlineShopping\bin\Debug\net8.0\DoraLux.runtimeconfig.json
+C:\Users\BeltranYndira\source\repos\OnlineShopping\bin\Debug\net8.0\DoraLux.dll
+C:\Users\BeltranYndira\source\repos\OnlineShopping\bin\Debug\net8.0\DoraLux.pdb
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.dll
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\refint\DoraLux.dll
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.pdb
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.genruntimeconfig.cache
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\ref\DoraLux.dll

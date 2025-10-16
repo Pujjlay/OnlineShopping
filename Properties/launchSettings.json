@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DoraLux": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
