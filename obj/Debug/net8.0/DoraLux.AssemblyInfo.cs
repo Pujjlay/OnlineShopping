@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoraLux")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a68d3df6faf75b3ab3e7d6ddedfd524b623fc9fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b834b90e5cebf8bbbd790fc6fa0a4445183fa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoraLux")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoraLux")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
