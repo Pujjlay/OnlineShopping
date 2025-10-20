@@ -12,3 +12,4 @@ C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\refint\DoraL
 C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.pdb
 C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.genruntimeconfig.cache
 C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\ref\DoraLux.dll
+C:\Users\BeltranYndira\source\repos\OnlineShopping\obj\Debug\net8.0\DoraLux.sourcelink.json
