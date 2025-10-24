@@ -9,7 +9,7 @@ namespace DoraLux
 {
     internal class ShopManager
     {
-        public List<Division> Divisions { get; set; } = new List<Division>();
+        public List<Division> Divisions { get; set; } = [];
         private const string DataFile = "shop_data_json";
 
         public void SaveData()
@@ -38,8 +38,11 @@ namespace DoraLux
             }
 
             Console.WriteLine("\nDivisions: ");
-            foreach (var d in Divisions)
-                Console.WriteLine($"-{d.Name}");
+
+            foreach (var d in Divisions) { 
+                Console.WriteLine($"-{d.Name}"); 
+            }
+               
         }
 
     }

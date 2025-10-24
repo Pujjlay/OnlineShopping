@@ -6,14 +6,9 @@ using System.Threading.Tasks;
 
 namespace DoraLux
 {
-    internal class Item
+    internal class Item(string name, double price)
     {
-        public string Name { get; set; }
-        public double Price { get; set; }
-        public Item(string name, double price)
-        {
-            Name = name;
-            Price = price;
-        }
+        public string Name { get; set; } = name;
+        public double Price { get; set; } = price;
     }
 }
