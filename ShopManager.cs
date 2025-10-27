@@ -19,7 +19,7 @@ namespace DoraLux
 
         }
 
-        public static ShopManager LoadData()
+        public static ShopManager GetLoadData()
         {
             if (!File.Exists(DataFile))
                 return new ShopManager();
@@ -39,10 +39,10 @@ namespace DoraLux
 
             Console.WriteLine("\nDivisions: ");
 
-            foreach (var d in Divisions) { 
-                Console.WriteLine($"-{d.Name}"); 
-            }
-               
+            foreach (var d in Divisions)
+                Console.WriteLine($" \u2604 \u26EF {d.Name}");
+           
+              
         }
 
     }

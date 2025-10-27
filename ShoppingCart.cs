@@ -24,20 +24,22 @@ namespace DoraLux
         {
             if (items.Count == 0)
             {
-                Console.WriteLine("\nThe cart is emty.");
+                Console.WriteLine($"\nThe cart 🛒 is emty.");
                 return; 
             }
 
-            Console.WriteLine("\nCart: ");
+            Console.WriteLine("\nCart 🛒:  ");
 
             foreach (var i in items)
             {
-                Console.WriteLine($"* {i.Name} ({i.Price} €)");
+                string value = $"* {i.Name} {i.Price,8:F2} € ";
+                Console.WriteLine(value);
 
             }
-            Console.WriteLine($"Total: {Total()} €");
+            Console.WriteLine($"Total: {Total():F2} €");
                 
         }
+
         public List<Item> GetItems()
         {
             return items;
